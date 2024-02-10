@@ -60,6 +60,7 @@ body {
 
 .ol-list li {
   font-size: 1rem;
+  margin-bottom: 0.2rem;
 }
 
 .btn {
@@ -73,6 +74,7 @@ body {
 
   display: inline-flex;
   align-items: center;
+  justify-content: center;
 }
 
 .add-btn {
