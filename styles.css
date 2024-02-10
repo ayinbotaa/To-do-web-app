@@ -101,6 +101,10 @@ body {
 
 /* media queries for small sreens */
 @media screen and (max-width: 768px) {
+  body {
+    min-height: 100vh;
+  }
+
   .container {
     max-width: 85%;
     padding: 1.2rem 1rem 1rem;
